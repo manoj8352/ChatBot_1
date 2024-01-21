@@ -40,4 +40,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 
 
-<img src="chatbot_1/ChatBot.png" alt="Description of the image" width="1000" height="500">
+<img src="chatbot_1/ChatBot.png" alt="Description of the image" width="500" height="500">
